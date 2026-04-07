@@ -25,7 +25,7 @@ As part of my data analysis learning journey with Vephla, I analyzed hotel booki
 ## 📸 Project Screenshots / Dashboard
 (Add your dashboard images here after uploading them — see Step 2 below)
 
-![Hotel Booking Dashboard](images/dashboard.png)   <!-- Example path - change after upload -->
+![Hotel Booking Dashboard]"C:\Users\hp\OneDrive\Pictures\Screenshots\new hotel booking dashboard.png"  <!-- Example path - change after upload -->
 
 ## 📁 Dataset
 - Source: Hotel Booking Dashboard on Kaggle
